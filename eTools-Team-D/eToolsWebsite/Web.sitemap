@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title=""  description="root menu items">
+    <siteMapNode url="~/Default.aspx" title="Home"  description="home page" />
+    <siteMapNode url="" title="eTools" description="">
+
+      <siteMapNode url="~/eTools/Purchasing/Purchasing.aspx" title="Purchasing" description=""/>
+      <siteMapNode url="~/eTools/Sales/Sales.aspx" title="Sales" description=""/>
+      <siteMapNode url="~/eTools/Rentals/Rentals.aspx" title="Rentals" description=""/>
+      <siteMapNode url="~/eTools/Recieving/Recieving.aspx" title="Recieving" description=""/>
+
+    </siteMapNode>
+
+    <siteMapNode url="~/About.aspx" title="About"  description="about page" />
+    <siteMapNode url="~/Contact.aspx" title="Contact"  description="contact page" />
+    <siteMapNode url="~/Security/UserRoleAdmin.aspx" title="Security"  description="security page" />
+  </siteMapNode>
+</siteMap>
